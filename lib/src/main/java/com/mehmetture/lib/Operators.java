@@ -9,7 +9,7 @@ public class Operators {
         for (int i = 0; i < myNumbers.length; i++){
 
             int x = myNumbers[i] / 3 * 5;
-          //  System.out.println(x);
+           System.out.println(x);
         }
 
         for (int number : myNumbers){
